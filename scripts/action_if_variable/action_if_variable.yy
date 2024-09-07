@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": true,
-  "parent": {
-    "name": "action",
-    "path": "folders/Scripts/compatibility/action.yy",
+  "$GMScript":"v1",
+  "%Name":"action_if_variable",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"action_if_variable",
+  "parent":{
+    "name":"action",
+    "path":"folders/Scripts/compatibility/action.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "action_if_variable",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

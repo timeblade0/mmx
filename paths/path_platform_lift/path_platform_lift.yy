@@ -1,17 +1,18 @@
 {
-  "kind": 0,
-  "closed": true,
-  "precision": 4,
-  "points": [
+  "$GMPath":"",
+  "%Name":"path_platform_lift",
+  "closed":true,
+  "kind":0,
+  "name":"path_platform_lift",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
     {"speed":100.0,"x":0.0,"y":172.0,},
     {"speed":100.0,"x":0.0,"y":-68.0,},
   ],
-  "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
-  },
-  "resourceVersion": "1.0",
-  "name": "path_platform_lift",
-  "tags": [],
-  "resourceType": "GMPath",
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
 }
